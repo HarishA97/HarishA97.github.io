@@ -1,6 +1,6 @@
 ---
-layout: Harish
-title: Harish
+layout: page
+title: About
 permalink: /about/
 ---
 
