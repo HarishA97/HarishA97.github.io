@@ -1,15 +1,14 @@
 ---
-layout: page
-title: About
+layout: Harish
+title: Harish
 permalink: /about/
 ---
 
-Some information about you!
+I am an Engineer graduating from R.V. College of Engineering.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[it.is.harish.a@gmail.com](mailto:it.is.harish.a@gmail.com)
