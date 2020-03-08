@@ -31,6 +31,8 @@ The authors mention the <a href="https://en.wikipedia.org/wiki/Stone_Soup">Stone
 The boiled frogs theory(I genuinly hope it's a theory) is quiet an interesting one. It suggests an experiment where you throw a frog into boiling water. The frog jumps right out. Now, use the same frog, in a small bowl of water. Gradually start heading the bowl and notice how the frog stays put and eventually dies. The frog does not take action to gradual changes while it's quick to jump out when it's immediate.
 This is the case with most people and management. Make changes slowly and gradually to get to a state you dream of being in. This will take time, but, it'll happen. A huge project proposal might not be accepted immediately, but, give them a small prototype, something that's working, but, not in the greatest of form, that'll do the convincing. Small steps is what is more likely to work, rather than the big-bang approach.
 
+> Keep an eye on the big picture and review things happening around you
+
 <h3>Good enough Software</h3>
 There is always software that is good enough. Software doesn't have to be perfect. The faster one acknowledges that, the better. We, has humans, try to be perfect, write perfect code. The authors mention that it's not always possible to be perfect and you have to learn to live with that. The code we write will not be perfect, but, it will be good enough. Good enough for the stakeholders.
 It's better to release good enough software to the world than spend eternity trying to write perfect code.
