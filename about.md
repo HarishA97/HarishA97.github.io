@@ -5,11 +5,11 @@ comments: true
 permalink: /about/
 ---
 
-I am an Engineer graduating from R.V. College of Engineering.
+I am an Engineer graduating from R.V. College of Engineering working at Atlassian Marketplace.
 
 ### More Information
 
-gv hgvhggjv hghv fgcv
+Nah! Too lazy to write this stuff.
 
 ### Contact me
 
