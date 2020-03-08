@@ -3,7 +3,7 @@ layout: post
 title: Anecdotes from The Pragmatic Programmer
 ---
 
-My second blog!(after a loong loong time!)
+<div align="justify">My second blog!(after a loong loong time!)
 
 It's been 8 months in the software industry and it's been one heck of a journey already! I do plan to write something about that, but, that'll be in a while.
 
@@ -45,3 +45,4 @@ Finally, I'd like to sign off with few points that helps improve everyone:
 2. Communicate with people!
 
 Good day everyone!
+</div>
