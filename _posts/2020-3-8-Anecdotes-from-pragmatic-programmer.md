@@ -16,14 +16,14 @@ Let's get to it, then!
 The first chapter was the most fun to read and probably offered some good advice. Here's few things that caught my eye:
 
 <h3>The cat ate my source code.</h3>
-That seemed like something I told my teacher about my homework, and yes, that's <i>exactly</i> what the authour meant too. Confused? The cat cannot possibly eat your source code. This just means don't make up excuses about something that's broken, instead, come up with options to fix it. Let's face it, no one likes a negative attitude. Bring all your positivity to work, and see how things change! When you start providing people with options to fix the problem instead of pointing out the problems, the problems start solving themselves. This seems like some solid advice for life as a whole too.
+That seemed like something I told my teacher about my homework, and yes, that's <i>exactly</i> what the author meant too. Confused? The cat cannot possibly eat your source code. This just means don't make up excuses about something that's broken, instead, come up with options to fix it. Let's face it, no one likes a negative attitude. Bring all your positivity to work, and see how things change! When you start providing people with options to fix the problem instead of pointing out the problems, the problems start solving themselves. This seems like some solid advice for life as a whole too.
 
 >Provide options, not excuses
 
 <h3>The broken window theory</h3>
 Wikipedia: <a href="https://en.wikipedia.org/wiki/Broken_windows_theory">The broken window theory</a>
 The theory is, technically, about a city and how crime encourages crime. Like many other things, this can be applied to software development too.<br>
-Imagine living in an old building that has broken windows(I mean the physical windows, not the microsoft ones) If you broke another window by accident, you would probably not care about it much. On the other hand, if the building was nice to begin with, you would probably loose your mind until you get it fixed. That's just how the human mind works!<br>
+Imagine living in an old building that has broken windows(I mean the physical windows, not the Microsoft ones) If you broke another window by accident, you would probably not care about it much. On the other hand, if the building was nice to begin with, you would probably loose your mind until you get it fixed. That's just how the human mind works!<br>
 This applies to code as well. People are more likely to write good code if the code they began with was good too. So, start changing! Fix the windows you see broken, you'll get to an ideal point someday.
 
 > Be the catalyst for change
