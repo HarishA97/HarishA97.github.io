@@ -3,7 +3,7 @@ layout: post
 title: Few more thoughts from The Pragmatic Programmer
 ---
 
-Continuing on my previous post, I'm going to try to explore more of my thoughts from reading <a href="https://www.amazon.in/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ref=asc_df_B07VRS84D1/">The Pragmatic Programmer.</a> by David Thomas and Andrew Hunt.
+Continuing on my previous post, I'm going to try to explore more of my thoughts from reading <a href="https://www.amazon.in/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ref=asc_df_B07VRS84D1/">The Pragmatic Programmer</a> by David Thomas and Andrew Hunt.
 
 <h3>ETC or Easier To Change</h3>
 Almost all of us have heard about the most important principle of software design, DRY or Don't Repeat Yourself. There's another similar principle that all software engineers need to know and that's ETC. Most of us already know this, but, we just don't seem to use it all that much.<br>
@@ -18,7 +18,7 @@ Imagine being a gunman firing at a target in the dark. You're not sure if you're
 It's a similar situation with the software we build. When you're not sure what the result is supposed to be, build a prototype. Something that touches all modules of the final system. This will help us get feedback from the stakeholders interactively and improve on the system step by step.
 
 <h3>Take time setting up your workspace</h3>
-This is something that hit me where it means a lot. I had been doing a lot of things in my day-to-day life wrong. Set up your workspace in such a way that it keeps you productive. The 15-20 minutes that you spend doing this will save you hours in the following months.<br>
+This is something that hit me where it means a lot. I had been doing a lot of things in my day-to-day life wrong. Set up your workspace in such a way that it keeps you productive. Automate everything you do daily. The 15-20 minutes that you spend doing this will save you hours in the following months.<br>
 I never took the time to set up my command prompt. Everytime, I wanted to check which branch I was working on, I typed `git branch`. I took minutes to get my project to compile and run. One day, a senior colleague of mine was sharing his screen with me and damn! His terminal always displayed the branch he was on and he had written a script to compile and run the project.<br>
 Many such things will improve your productivity. Find them and use them!
 
