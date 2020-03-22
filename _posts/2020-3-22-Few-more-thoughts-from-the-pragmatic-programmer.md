@@ -3,7 +3,7 @@ layout: post
 title: Few more thoughts from The Pragmatic Programmer
 ---
 
-Continuing on my previous post, I'm going to try to explore more of my thoughts from reading The Pragmatic Programmer.
+Continuing on my previous post, I'm going to try to explore more of my thoughts from reading <a href="https://www.amazon.in/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ref=asc_df_B07VRS84D1/">The Pragmatic Programmer.</a> by David Thomas and Andrew Hunt.
 
 <h3>ETC or Easier To Change</h3>
 Almost all of us have heard about the most important principle of software design, DRY or Don't Repeat Yourself. There's another similar principle that all software engineers need to know and that's ETC. Most of us already know this, but, we just don't seem to use it all that much.<br>
