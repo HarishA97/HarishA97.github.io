@@ -321,13 +321,16 @@
 	<script src="js/main.js"></script>
 
 	<script>
-    var d = new Date('Feb 9, 25 04:00:00 GMT+00:00');
+	var d = new Date('Feb 9, 25 09:30:00 GMT+00:00');
 
     // default example
     simplyCountdown('.simply-countdown-one', {
         year: d.getFullYear(),
         month: d.getMonth() + 1,
-        day: d.getDate()
+        day: d.getDate(),
+		hours: d.getHours(),
+		minutes: d.getMinutes(),
+		seconds: d.getSeconds(),
     });
 
     //jQuery example
