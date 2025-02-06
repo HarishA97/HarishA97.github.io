@@ -237,6 +237,19 @@
                     secondWord = parameters.words.seconds;
                 }
 
+                if(days < 1 && hours < 1 && minutes < 1 && seconds < 1) {
+                    countdown.innerHTML = '';
+                    const announcement = document.querySelectorAll('.announcement');
+                    if(announcement.length) {
+                        announcement[0].innerHTML = "We got Married!";
+                        const buttons = document.querySelectorAll('.btn-default');
+                        buttons.forEach(button => button.style.visibility = 'hidden')
+                    }
+                    return;
+                } else {
+                    const buttons = document.querySelectorAll('.btn-default');
+                    buttons.forEach(button => button.style.visibility = 'visible')
+                }
                 /* display an inline countdown into a span tag */
                 if (parameters.inline) {
                     countdown.innerHTML =

@@ -89,10 +89,10 @@
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1>Harish &amp; Sandhya</h1>
-							<h2>We Are Getting Married</h2>
+							<h2 class="announcement">We Are Getting Married</h2>
 							<div class="simply-countdown simply-countdown-one"></div>
-							<p><a href="https://calendar.app.google/vZ4js7nLpqVSbZVm7" class="btn btn-default btn-sm">Save the date</a></p>
-							<p><a href="https://maps.app.goo.gl/H51j17vsuJoY5CT86" class="btn btn-default btn-sm">Location</a></p>
+							<p><a href="https://calendar.app.google/vZ4js7nLpqVSbZVm7" class="btn btn-default btn-sm" style="visibility: hidden;">Save the date</a></p>
+							<p><a href="https://maps.app.goo.gl/H51j17vsuJoY5CT86" class="btn btn-default btn-sm" style="visibility: hidden;">Location</a></p>
 						</div>
 					</div>
 				</div>
@@ -276,14 +276,6 @@
 		hours: d.getHours(),
 		minutes: d.getMinutes(),
 		seconds: d.getSeconds(),
-    });
-
-    //jQuery example
-    $('#simply-countdown-losange').simplyCountdown({
-        year: d.getFullYear(),
-        month: d.getMonth() + 1,
-        day: d.getDate(),
-        enableUtc: false
     });
 </script>
 
